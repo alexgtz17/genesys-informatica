@@ -999,6 +999,10 @@ ol.breadcrumb {
     font-size: 0.9em;
 }
 
+.form-group-email {
+    margin-right: 16px;
+}
+
 ul.links-nav li {
     list-style: none;
     margin-left: 1em;
@@ -1028,7 +1032,7 @@ p.copy-right a {
     cursor: pointer;
     padding: 0.8em 1em;
     width: 26%;
-    margin-left: 1%;
+    /* margin-left: 1%; */
 }
 
 .n-right .form-group input.form-control.submit:hover {
