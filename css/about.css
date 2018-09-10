@@ -1,0 +1,22 @@
+:root {
+  --genesys-blue: #5482AB;
+  --genesys-gray: #707372;
+  --genesys-light-gray: #9EA2A2;
+  --genesys-white: #C7C9C7;
+}
+
+.about-sobre-nosotros {
+  background-color: var(--genesys-white);
+}
+
+.about-mision {
+  background-color: var(--genesys-blue);
+}
+
+.about-paragraph {
+  color: black;
+}
+
+.about-img-rad {
+  border-radius: 15px;
+}
