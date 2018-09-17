@@ -1671,3 +1671,8 @@ ul.scial {
 }
 
 /*--//responsive--*/
+
+#logos .client-logo img {
+  max-height: 125px;
+  max-width: 125px;
+}
