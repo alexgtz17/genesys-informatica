@@ -1,0 +1,16 @@
+.mian-content-1 {
+  background: url(../images/Vmware-banner2.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+}
+
+.choose {
+  background: url(../images/vmware-background3.jpg) no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  background-attachment: fixed;
+}
