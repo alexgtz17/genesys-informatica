@@ -14,3 +14,7 @@
   -ms-background-size: cover;
   background-attachment: fixed;
 }
+
+.choose_top .vmware-button {
+  background: rgb(112, 193, 91);
+}
