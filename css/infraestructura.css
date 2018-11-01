@@ -1,0 +1,23 @@
+.mian-content-1 {
+  background: url(../images/graphic-banner-1.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 300px;
+}
+
+.choose {
+  background: url(../images/ibm-datacenter-asia.jpg) no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  background-attachment: fixed;
+}
+
+.choose_top {
+  padding: 55px 40px;
+  background: rgba(0, 0, 0, 0.35);
+  border-radius: 2px;
+  box-shadow: 0px 0px 0px 8px rgba(0, 0, 0, 0.2);
+}
