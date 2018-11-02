@@ -18,3 +18,11 @@
 .choose_top .vmware-button {
   background: rgb(112, 193, 91);
 }
+
+.vmware-servicios-ul {
+  margin: 0;
+  font-size: 0.85em;
+  color: #8c9398;
+  line-height: 2em;
+  letter-spacing: 1px;
+}
