@@ -3,3 +3,10 @@
   height: 100%;
   border-radius: 0%;
 }
+
+.mian-content-1 {
+  background: url(../images/nasa-53884-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+}
