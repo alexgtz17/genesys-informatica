@@ -25,3 +25,15 @@
 .logo {
   width: 50%;
 }
+
+.infr-list {
+  margin: 0;
+  font-size: 0.85em;
+  color: #8c9398;
+  line-height: 2em;
+  letter-spacing: 1px;
+}
+
+.pers-computing-p {
+  text-indent: 2em;
+}
