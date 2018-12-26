@@ -1676,14 +1676,13 @@ ul.scial {
 /*--//responsive--*/
 
 #logos .clientes-sm img {
-  max-height: 125px;
-  max-width: 125px;
+  max-height: 123px;
+  max-width: 123px;
 }
 
 #logos .clientes-lg img {
   max-height: 225px;
   max-width: 225px;
-  text-align: center;
 }
 
 @media (max-width: 991px) {
