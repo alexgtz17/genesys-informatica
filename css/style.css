@@ -1159,7 +1159,7 @@ ul.scial {
     padding-top: 13em;
   }
   .banner-content {
-    padding: 7em 0 0em 0;
+    padding: 3rem 0 0em 0;
   }
 }
 
@@ -1308,9 +1308,9 @@ ul.scial {
   .about-in.blog-grid-info:nth-child(4) {
     margin-top: 2em;
   }
-  .middle-grids:nth-child(2) {
+  /* .middle-grids:nth-child(2) {
     margin: 2em 0;
-  }
+  } */
   .blog-sec .about-in.blog-grid-info {
     float: left;
     width: 50%;
@@ -1481,7 +1481,7 @@ ul.scial {
     padding-top: 3em;
   }
   .banner-content {
-    padding: 5em 0 0em 0;
+    padding: 0em 0 3rem 0;
   }
 }
 
@@ -1618,7 +1618,7 @@ ul.scial {
     font-size: 15px;
   }
   .banner-content {
-    padding: 3em 0 0em 0;
+    padding: 0em 0 4rem 0;
   }
   .advantage_left h3 {
     font-size: 20px;
