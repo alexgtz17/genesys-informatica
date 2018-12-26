@@ -9,7 +9,7 @@ html,
 body {
   margin: 0;
   font-size: 100%;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   background: #fff;
 }
 
@@ -20,24 +20,24 @@ body a {
   -moz-transition: 0.5s all;
   -o-transition: 0.5s all;
   -ms-transition: 0.5s all;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 a:hover {
   text-decoration: none;
 }
 
-input[type='button'],
-input[type='submit'],
-input[type='text'],
-input[type='email'],
-input[type='search'] {
+input[type="button"],
+input[type="submit"],
+input[type="text"],
+input[type="email"],
+input[type="search"] {
   transition: 0.5s all;
   -webkit-transition: 0.5s all;
   -moz-transition: 0.5s all;
   -o-transition: 0.5s all;
   -ms-transition: 0.5s all;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 h1,
@@ -47,7 +47,7 @@ h4,
 h5,
 h6 {
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   letter-spacing: 1px;
   font-weight: 700;
 }
@@ -105,7 +105,7 @@ h1 a.navbar-brand {
 
 .navbar-light .navbar-brand {
   color: #fff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .logo i {
@@ -175,7 +175,7 @@ a.nav-link.request {
   width: 0;
   height: 0;
   margin-left: 0;
-  content: '';
+  content: "";
   border-top: 0.3em solid;
   border-right: 0.3em solid transparent;
   border: 0px;
@@ -645,6 +645,9 @@ h3.tittle {
   color: #ef9632;
   margin: 0;
 }
+#clientes-plus {
+  color: #5482ab;
+}
 .stats_bottom_grid_left img {
   margin: 0 auto;
 }
@@ -690,7 +693,7 @@ h3.tittle {
 }
 
 .team-info-content:before {
-  content: '';
+  content: "";
   background-color: rgba(0, 0, 0, 0);
   left: 0;
   top: 0;
@@ -820,7 +823,7 @@ section.bottom-last h3 {
   position: relative;
 }
 .feedback-top:after {
-  content: '';
+  content: "";
   position: absolute;
   top: 100%;
   right: 6%;
@@ -897,7 +900,7 @@ section.bottom-last h3 {
 }
 
 .icon-test:before {
-  content: ' ';
+  content: " ";
   position: absolute;
   background: #d5d8da;
   width: 77%;
@@ -1081,7 +1084,7 @@ ul.social-icons li a:hover {
   font-size: 1.1em;
   text-transform: uppercase;
   font-weight: 800;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #fff;
 }
 .copyright {
