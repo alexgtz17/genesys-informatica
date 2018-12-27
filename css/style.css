@@ -1690,8 +1690,98 @@ ul.scial {
   max-width: 123px;
 }
 
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
   #logos .clientes-sm img {
     display: none;
+  }
+} */
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  #logos .clientes-sm img {
+    max-height: 70px;
+    max-width: 70px;
+  }
+
+  #logos .clientes-lg img {
+    max-height: 90px;
+    max-width: 90px;
+  }
+
+  #socios .socios-sm img {
+    max-height: 60px;
+    max-width: 60px;
+  }
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  /* listo */
+  #logos .clientes-sm img {
+    max-height: 65px;
+    max-width: 65px;
+  }
+
+  #logos .clientes-lg img {
+    max-height: 150px;
+    max-width: 150px;
+  }
+
+  #socios .socios-sm img {
+    max-height: 65px;
+    max-width: 65px;
+  }
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  /* //CSS */
+  #logos .clientes-sm img {
+    max-height: 65px;
+    max-width: 65px;
+  }
+
+  #logos .clientes-lg img {
+    max-height: 90px;
+    max-width: 90px;
+  }
+
+  #socios .socios-sm img {
+    max-height: 45px;
+    max-width: 45px;
+  }
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  #logos .clientes-sm img {
+    max-height: 45px;
+    max-width: 45px;
+  }
+
+  #logos .clientes-lg img {
+    max-height: 95px;
+    max-width: 95px;
+  }
+
+  #socios .socios-sm img {
+    max-height: 45px;
+    max-width: 45px;
   }
 }
