@@ -528,7 +528,7 @@ h3.tittle span {
 h3.tittle {
   text-shadow: 2px 2px 2px rgba(41, 41, 41, 0.15);
   font-size: 3em;
-  color: #ef9632;
+  color: black;
 
   font-weight: 700;
 }
@@ -1683,6 +1683,11 @@ ul.scial {
 #logos .clientes-lg img {
   max-height: 225px;
   max-width: 225px;
+}
+
+#socios .socios-sm img {
+  max-height: 123px;
+  max-width: 123px;
 }
 
 @media (max-width: 991px) {
