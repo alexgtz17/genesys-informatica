@@ -2,7 +2,21 @@
   background: url(../images/Vmware-banner2.jpg);
   background-size: cover;
   background-position: center;
-  min-height: 350px;
+  min-height: 295px;
+}
+
+.vmware-img img {
+  max-height: 300px;
+  border-radius: 10px;
+  /* width: 100%; */
+  /* box-shadow: 5px 10px #888888; */
+  /* box-shadow: 5px 5px 4px 5px #888888; */
+}
+
+.advantage_left1 img {
+  max-height: 300px;
+  border-radius: 10px;
+  width: 90%;
 }
 
 .choose {
@@ -25,4 +39,8 @@
   color: #8c9398;
   line-height: 2em;
   letter-spacing: 1px;
+}
+
+.vmware-p {
+  text-indent: 2rem;
 }
