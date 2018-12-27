@@ -1,7 +1,64 @@
+.mian-content-1 {
+  background: url(../images/graphic-banner-1.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 300px;
+}
+
 .advantage_left1 img {
   max-height: 300px;
   border-radius: 10px;
   width: 100%;
   /* box-shadow: 5px 10px #888888; */
   /* box-shadow: 5px 5px 4px 5px #888888; */
+}
+
+#clientes-impresion .client-logo img {
+  max-height: 160px;
+  max-width: 160px;
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* //CSS */
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  #clientes-impresion .client-logo img {
+    max-height: 150px;
+    max-width: 150px;
+  }
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  #clientes-impresion .client-logo img {
+    max-height: 90px;
+    max-width: 90px;
+  }
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  #clientes-impresion .client-logo img {
+    max-height: 65px;
+    max-width: 65px;
+  }
 }
