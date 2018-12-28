@@ -1231,11 +1231,11 @@ ul.scial {
   .rotate {
     margin-top: 4em;
   }
-  section#about {
+  /* section#about {
     background: #fff url(../images/about.png) -13em 4em no-repeat;
     background-size: 61.09375em auto;
     padding: 5em 0;
-  }
+  } */
   .bottom-content-right {
     max-width: 96.25em;
     padding: 0em 3.1em 0 3em;
