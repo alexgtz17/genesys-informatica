@@ -4,3 +4,9 @@
   background-position: center;
   min-height: 300px;
 }
+
+.comunicaciones img {
+  /* width: 300px; */
+  height: 300px;
+  border-radius: 2%;
+}
