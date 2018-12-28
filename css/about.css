@@ -1,16 +1,24 @@
 :root {
-  --genesys-blue: #5482AB;
+  /* --genesys-blue: #5482ab; */
+  --genesys-blue: #5482ab;
   --genesys-gray: #707372;
-  --genesys-light-gray: #9EA2A2;
-  --genesys-white: #C7C9C7;
+  --genesys-light-gray: #9ea2a2;
+  --genesys-white: #c7c9c7;
+}
+
+.mian-content-1 {
+  background: url(https://lh3.googleusercontent.com/kLP82SB-qcdCVc6C1gcJSVgSMlukYdYVFxb0-yCagjOqcNDuKXT_j764XeXfXYeLDw7brU9HETbrpb9CzM1OafhHiBSi2s3A7D8yslYwKHgedySIkyJ4l5FtzIZbaCPhRg86n43uGgY=w2400);
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
 }
 
 .about-sobre-nosotros {
-  background-color: var(--genesys-white);
+  background-color: white;
 }
 
 .about-mision {
-  background-color: var(--genesys-blue);
+  background-color: #c4dff7;
 }
 
 .about-paragraph {

@@ -1675,6 +1675,10 @@ ul.scial {
 
 /*--//responsive--*/
 
+.indent-this-text {
+  text-indent: 2rem;
+}
+
 #logos .clientes-sm img {
   max-height: 123px;
   max-width: 123px;
