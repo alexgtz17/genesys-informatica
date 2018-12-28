@@ -44,3 +44,9 @@
 .vmware-p {
   text-indent: 2rem;
 }
+
+@media (max-width: 384px) {
+  .mian-content-1 {
+    min-height: 160px;
+  }
+}

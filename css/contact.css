@@ -196,6 +196,10 @@ p.sub {
   .contact_grid_right {
     padding-top: 2em;
   }
+
+  .mian-content-1 {
+    min-height: 160px;
+  }
 }
 
 /*--//responsive--*/

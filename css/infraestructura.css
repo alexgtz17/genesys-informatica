@@ -89,3 +89,9 @@
     flex-direction: row;
   }
 }
+
+@media (max-width: 384px) {
+  .mian-content-1 {
+    min-height: 160px;
+  }
+}

@@ -10,3 +10,9 @@
   background-position: center;
   min-height: 300px;
 }
+
+@media (max-width: 384px) {
+  .mian-content-1 {
+    min-height: 160px;
+  }
+}

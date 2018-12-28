@@ -61,4 +61,8 @@
     max-height: 65px;
     max-width: 65px;
   }
+
+  .mian-content-1 {
+    min-height: 160px;
+  }
 }

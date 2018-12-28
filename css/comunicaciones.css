@@ -10,3 +10,9 @@
   height: 300px;
   border-radius: 2%;
 }
+
+@media (max-width: 384px) {
+  .mian-content-1 {
+    min-height: 160px;
+  }
+}
