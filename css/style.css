@@ -572,8 +572,7 @@ h3.tittle {
 }
 /*-- choose --*/
 .choose {
-  background: url(https://lh3.googleusercontent.com/78nLAvorqKjoF5LBR6GYmL6x0oSdKu6n6eUqid74_6O7dOMDKO-VNN3xU-DquagHH9zNn3xF4Jtrh8LbXd2zoGI2ofmBo3EN15VhVwgLYGbIu5Edp2T7ZfvxkInFC-ZOvNdLGByPLs0=w2400)
-    no-repeat;
+  background: url("../images/tech-background.png") no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
