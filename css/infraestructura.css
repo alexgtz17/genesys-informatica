@@ -5,6 +5,11 @@
   min-height: 300px;
 }
 
+#dell-logo,
+#huawei-logo {
+  max-width: 65%;
+}
+
 .choose {
   background: url(../images/ibm-datacenter-asia.jpg) no-repeat;
   background-size: cover;
